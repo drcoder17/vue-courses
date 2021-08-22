@@ -1,0 +1,9 @@
+1. data bilan chuqurroq tanishamiz. JS data types
+
+2. methods |> Vue js'da functionlar bilan tanishamiz, methods field.
+
+3. Event hodisalar |> click, submit event.
+
+4. this keyword haqida to'liqroq.
+
+5. CSS fayl ulanishi |> inline, internal, external.
